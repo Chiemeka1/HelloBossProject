@@ -1,7 +1,5 @@
-  class helloBoss{
+class HelloBoss{
 	public static void main(String a[]){
-		System.out.println("Hello boss");
+		System.out.println("Hello Boss");
 	}
 }
-
-//just to test the update 
